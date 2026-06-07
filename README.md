@@ -71,6 +71,16 @@ A professional-grade, interactive playground and developer guide for **bKash Tok
 
 ---
 
+## 📦 Installation via Composer
+
+You can include this project as a dependency in your PHP project:
+
+```bash
+composer require shahinur/bkash-tokenized-checkout-devhub
+```
+
+---
+
 ## 🏗️ Laravel Integration Guide
 
 This project contains a complete, drop-in integration package for **bKash Tokenized Checkout (v1.2.0-beta)** in Laravel located in the `/laravel-bkash` folder.
