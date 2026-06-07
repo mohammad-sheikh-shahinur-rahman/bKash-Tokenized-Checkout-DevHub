@@ -116,7 +116,7 @@ This integration is built with **Security**, **Performance**, and **Scalability*
 ---
 
 ## 🤝 Contributing
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/shahinur/bkash-devhub/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/mohammad-sheikh-shahinur-rahman/bKash-Tokenized-Checkout-DevHub/issues).
 
 ## ⭐️ Show your support
 Give a ⭐️ if this project helped you!

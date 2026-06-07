@@ -9,7 +9,7 @@ The following is a set of guidelines for contributing to bKash DevHub. These are
 ### Reporting Bugs
 This section guides you through submitting a bug report. Following these guidelines helps maintainers and the community understand your report, reproduce the behavior, and find related bugs.
 
-- **Check if the bug was already reported** by searching on GitHub under [Issues](https://github.com/shahinur/bkash-devhub/issues).
+- **Check if the bug was already reported** by searching on GitHub under [Issues](https://github.com/mohammad-sheikh-shahinur-rahman/bKash-Tokenized-Checkout-DevHub/issues).
 - **Use a clear and descriptive title** for the issue to identify the problem.
 - **Describe the exact steps which reproduce the problem** in as many details as possible.
 - **Explain which behavior you expected to see and why** and why the current behavior is a problem.
@@ -17,7 +17,7 @@ This section guides you through submitting a bug report. Following these guideli
 ### Suggesting Enhancements
 This section guides you through submitting an enhancement suggestion, including completely new features and minor improvements to existing functionality.
 
-- **Check if the enhancement was already suggested** by searching on GitHub under [Issues](https://github.com/shahinur/bkash-devhub/issues).
+- **Check if the enhancement was already suggested** by searching on GitHub under [Issues](https://github.com/mohammad-sheikh-shahinur-rahman/bKash-Tokenized-Checkout-DevHub/issues).
 - **Use a clear and descriptive title** for the issue to identify the suggestion.
 - **Provide a step-by-step description of the suggested enhancement** in as many details as possible.
 
